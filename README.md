@@ -1,6 +1,6 @@
 ### Hi, I'm Annie 👋 
 
-**Currently undertaking the She Codes Plus bootcamp in Sydney, Australia. Looking to make a career transition in software engineering.** :computer: :books: :pen::woman_office_worker:	
+**Currently undertaking the She Codes Plus bootcamp in Sydney, Australia. Looking to make a career transition in software engineering.** :computer: :books: :pen:
 
 - :gear: Currently working on building the frontend of my crowdfunding app. Check out the backend [here](https://github.com/AnnieL1/RestAPI-She_Codes_Plus)
 - 🌱 Currently learning Python, Django REST API, JavaScript, React and HTML & CSS
